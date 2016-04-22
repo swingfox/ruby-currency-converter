@@ -1,0 +1,21 @@
+Sample Output:
+
+Enter Country:
+United Kingdom
+Conversion:
+1 PHP = 0.0149 GBP
+
+Enter Country:
+United States
+Conversion:
+1 PHP = 0.0214 USD
+
+Enter Country:
+Japan
+Conversion:
+1 PHP = 2.3699 JPY
+
+Enter Country:
+Vietnam
+Conversion:
+1 PHP = 477.5804 VND
